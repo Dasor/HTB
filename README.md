@@ -14,4 +14,7 @@
 | <img width=80% src="img/paper.png">       | 29-04-22  | Easy       | [Paper Writeup](./writeups/paper.md)               |
 | <img width=80% src="img/late.png">        | 19-06-22  | Easy       | [Late Writeup](./writeups/late.md)                 |
 | <img width=80% src="img/opensource.png">  | 26-06-22  | Easy       | [Opensource Writeup](./writeups/opensource.md)     |
-| <img width=80% src="img/trick.png">       | 15-07-22  | Easy       | [Trick Writeup](./writeups/trick.md)          |
+| <img width=80% src="img/trick.png">       | 15-07-22  | Easy       | [Trick Writeup](./writeups/trick.md)               |
+| <img width=80% src="img/faculty.png">     | 27-07-22  | Medium     | [Faculty Writeup](./writeups/faculty.md)           |
+| <img width=80% src="img/shared.png">      | 1-08-22   | Medium     | [Shared Writeup](./writeups/shared.md)             |
+| <img width=80% src="img/noter.png">       | 12-08-22  | Medium     | [Noter Writeup](./writeups/noter.md)               |
