@@ -18,3 +18,8 @@
 | <img width=80% src="img/faculty.png">     | 27-07-22  | Medium     | [Faculty Writeup](./writeups/faculty.md)           |
 | <img width=80% src="img/shared.png">      | 1-08-22   | Medium     | [Shared Writeup](./writeups/shared.md)             |
 | <img width=80% src="img/noter.png">       | 12-08-22  | Medium     | [Noter Writeup](./writeups/noter.md)               |
+
+
+# IMPORTANT
+
+This repository is now archived, new writeups will be added to my [github pages](https://dasor.github.io/)
